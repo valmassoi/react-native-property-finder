@@ -174,6 +174,7 @@ class SearchPage extends Component {
         {spinner}
         <Text style={styles.description}>{this.state.message}</Text>
       </View>
+
     );
   }
 }
